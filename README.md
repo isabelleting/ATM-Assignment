@@ -2,7 +2,7 @@
 
 ## Description 
 
-An exercise with MIT xPro where the user can deposit and withdraw money from their account. The Submit button will be disabled if the user tries to witdraw more than the account has. 
+An exercise with MIT xPro where the user can deposit and withdraw money from their account. The submit button will be disabled if the user tries to withdraw more than the account has. 
 
 ## How To Run
 
